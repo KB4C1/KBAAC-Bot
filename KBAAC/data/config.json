@@ -1,0 +1,30 @@
+{
+    "Prefix": "!",
+    "Token": "YOUR_BOT_TOKEN",
+    "AdminRole": "Admin",
+    "MoneyRange": {
+        "min": 10,
+        "max": 100
+    },
+    "CasinoOdds": {
+        "roulette": {
+            "red": 2,
+            "black": 2,
+            "even": 2,
+            "odd": 2,
+            "number": 35
+        },
+        "blackjack": {
+            "win": 2,
+            "lose": 1
+        }
+    },
+    "InterestRates": {
+        "daily": {
+            "standard": 0.01,
+            "premium": 0.02,
+            "vip": 0.03
+        }
+    },
+    "WorkCooldown": 300
+}

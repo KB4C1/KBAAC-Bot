@@ -1,0 +1,14 @@
+{
+    "users": {},
+    "settings": {
+        "work_min": 10,
+        "work_max": 100, 
+        "interest_rates": {
+            "daily": {
+                "low": 1.02,   
+                "medium": 1.05,
+                "high": 1.1 
+            }
+        }
+    }
+}
