@@ -14,7 +14,7 @@
 
    ```bash
    git clone https://github.com/KB4C1/KBAC---Discord-Bot.git
-   cd KBAC---Discord-Bot
+   cd KBAAC-Bot
 
 Встановіть залежності:
 
