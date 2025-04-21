@@ -13,7 +13,7 @@
 1. Клонуйте репозиторій:
 
    ```bash
-   git clone https://github.com/KB4C1/KBAC---Discord-Bot.git
+   git clone [https://github.com/KB4C1/KBAC---Discord-Bot.git](https://github.com/KB4C1/KBAAC-Bot)
    cd KBAAC-Bot
 
 Встановіть залежності:
